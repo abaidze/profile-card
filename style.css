@@ -59,7 +59,7 @@
 .city {
     color: #6B7082;
     padding-bottom: 28px;
-    font-family: KumbhSans-Light;
+    font-family: 'Kumbh Sans';
     line-height: 17px;
     font-weight: 400;
     font-size: 14px;
@@ -74,7 +74,7 @@
     background-color: #FFFFFF;
     border-top: 1px #E8E9EC solid;
     height: 88px;
-    font-family: KumbhSans-Bold;
+    font-family: 'Kumbh Sans';
 }
 .data {
     font-family: 'Kumbh Sans';
